@@ -8,7 +8,8 @@ The programming languages i know:
 - Java
 - Javascript
 - HTML
-- CSS
+- CSS\
+-->
 Thanks for reading these! If you wanna know more about me,
 im going to make a website :)
 
