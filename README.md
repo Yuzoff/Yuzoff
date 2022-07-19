@@ -21,5 +21,6 @@ and godot as my main game engine
 <h2>Yuzof#2489</h2>
 <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
 <br/>
-<b>README inspired by <a href="https://github.com/retronbv">retronbv</a>
 </div>
+
+<b>README inspired by <a href="https://github.com/retronbv">retronbv</a>
