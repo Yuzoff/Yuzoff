@@ -4,5 +4,6 @@
 
 🔥 I am a discord bot and a roblox game developer! 🔥
   
-Discord: Yuzof#2489 <img src="https://skillicons.dev/icons?i=discord"></img>
+<img src="https://skillicons.dev/icons?i=discord"></img>
+<h2>Yuzof#2489</h2>
 </p>
