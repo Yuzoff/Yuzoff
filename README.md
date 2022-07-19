@@ -2,7 +2,7 @@
   <h1>Languages</h1>
 <img src="https://skillicons.dev/icons?i=js,html,css,cpp"></img>
 <br/>
-<img src="https://skillicons.dev/icons?i=cs,nodejs,java,dart"></img>
+<img src="https://skillicons.dev/icons?i=cs,nodejs,java,dart,typescript"></img>
 
 🔥 I am a discord bot and a roblox game developer! 🔥
   
@@ -17,8 +17,7 @@ and godot as my main game engine
 <img src="https://skillicons.dev/icons?i=vscode,godot"></img>
 <br/>
   <h1>Misc</h1>
-
-<img src="https://skillicons.dev/icons?i=discord"></img>
+<img src="https://skillicons.dev/icons?i=discord,heroku,blender,cloudflare"></img>
 <h2>Yuzof#2489</h2>
 <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
 <br/>
