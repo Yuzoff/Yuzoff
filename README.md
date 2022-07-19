@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
   <h1>Programming Languages I know!</h1>
 <img src="https://skillicons.dev/icons?i=js,html,css,cpp,cs,nodejs,java"></img>
 
@@ -6,4 +6,4 @@
   
 <img src="https://skillicons.dev/icons?i=discord"></img>
 <h2>Yuzof#2489</h2>
-</p>
+</div>
