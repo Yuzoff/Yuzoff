@@ -15,7 +15,7 @@ and godot as my main game engine
 ● 🎮 Learning <a href="https://www.monogame.net/">monogame</a>
 <br/>
 <img src="https://skillicons.dev/icons?i=vscode,godot"></img>
-
+<br/>
 <img src="https://skillicons.dev/icons?i=discord"></img>
 <h2>Yuzof#2489</h2>
 <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
