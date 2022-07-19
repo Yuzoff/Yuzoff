@@ -1,3 +1,8 @@
-
+<p align="center">
 # Programming Languages I know!
-[![Programming Languages I know!](https://skillicons.dev/icons?i=js,html,css,cpp,cs,nodejs)](https://skillicons.dev)
+[![Lanuages](https://skillicons.dev/icons?i=js,html,css,cpp,cs,nodejs,java)](https://skillicons.dev)
+
+🔥 I am a discord bot and a roblox game developer! 🔥
+  
+Discord: Yuzof#2489 [![Lanuages](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+</p>
