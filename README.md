@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="100" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/49005044?v=4">
+  <img width="100" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/76404657?v=4">
   <br>
   <br>
-  <b>retronbv</b>
+  <b>Yuzoff</b>
   <br>
   <span style="font-size:10px;!important">A little bit of knowledge comes a little bit of, hmm actually i forgot wat i said...</span>
 </p>
