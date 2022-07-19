@@ -1,5 +1,5 @@
 <p align="center">
-# Programming Languages I know!
+  <h1>Programming Languages I know!</h1>
 [![Lanuages](https://skillicons.dev/icons?i=js,html,css,cpp,cs,nodejs,java)](https://skillicons.dev)
 
 🔥 I am a discord bot and a roblox game developer! 🔥
