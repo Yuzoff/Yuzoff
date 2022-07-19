@@ -4,7 +4,7 @@
 <div align="center">
   <b>Yuzoff</b>
   <img width="100" src="https://avatars.githubusercontent.com/u/76404657?v=4"><a href="github.com/Yuzoff"></a></img>
-  <span style="font-size:10px;!important">A little bit of knowledge comes a little bit of, hmm actually i forgot wat i said...</h2>
+  <span style="font-size:10px;!important">A little bit of knowledge comes a little bit of, hmm actually i forgot wat i said...</span>
   <br/>
   <br/>
   <br/>
