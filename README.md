@@ -16,6 +16,8 @@ and godot as my main game engine
 <br/>
 <img src="https://skillicons.dev/icons?i=vscode,godot"></img>
 <br/>
+  <h1>Misc</h1>
+
 <img src="https://skillicons.dev/icons?i=discord"></img>
 <h2>Yuzof#2489</h2>
 <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
