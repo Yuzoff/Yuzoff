@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Programming Languages I know!</h1>
 <img src="https://skillicons.dev/icons?i=js,html,css,cpp"></img>
+<br/>
 <img src="https://skillicons.dev/icons?i=cs,nodejs,java"></img>
 
 🔥 I am a discord bot and a roblox game developer! 🔥
