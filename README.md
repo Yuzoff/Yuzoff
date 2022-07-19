@@ -1,4 +1,11 @@
+
+
+
 <div align="center">
+  <h1>Yuzoff</h1>
+  <img src="https://avatars.githubusercontent.com/u/76404657?v=4"><a href="github.com/Yuzoff"></a></img>
+  <h2>A little bit of knowledge comes a little bit of, hmm actually i forgot wat i said...</h2>
+  <br/>
   <h1>Languages</h1>
 <img src="https://skillicons.dev/icons?i=js,html,css,cpp"></img>
 <br/>
