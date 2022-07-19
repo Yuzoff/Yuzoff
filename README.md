@@ -9,6 +9,8 @@
 I use vscode as my main code editor
 and godot as my main game engine
 
+<img src="https://skillicons.dev/icons?i=cmder,vscode,godot"></img>
+
 <img src="https://skillicons.dev/icons?i=discord"></img>
 <h2>Yuzof#2489</h2>
 <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
