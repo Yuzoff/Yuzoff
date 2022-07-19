@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <h1>Languages</h1>
+  <h3>Languages</h1>
 <img src="https://skillicons.dev/icons?i=js,html,css,cs"></img>
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,java,dart,typescript"></img>
@@ -21,18 +21,18 @@
 I use vscode as my main code editor
 and godot as my main game engine
 
-<h1>What I am currently working on</h1>
+<h3>What I am currently working on</h1>
 ● 🤖 Currently working on a private discord bot
 <br/>
 ● 🎮 Learning <a href="https://www.monogame.net/">monogame</a>
 <br/>
 <br/>
-  <h1>Misc</h1>
+  <h3>Misc</h1>
 <img src="https://skillicons.dev/icons?i=discord,heroku,blender,cloudflare"></img>
 <br/>
 <img src="https://skillicons.dev/icons?i=figma,gcp,maven,vscode,visualstudio,dotnet"></img>
 
-<h2>Yuzof#2489</h2>
+<h3>Yuzof#2489</h3>
 <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
 <br/>
 </div>
