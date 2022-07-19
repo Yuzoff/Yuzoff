@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/76404657?v=4">
+  <img width="100" style="border-radius: 50%" src="https://media3.giphy.com/media/2FI59N7rpS0XEINtqm/giphy.gif?cid=790b7611e6d4c8277601b8ace48188426db8e65beea7cd84&rid=giphy.gif&ct=g">
   <br>
   <br>
   <b>Yuzoff</b>
