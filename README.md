@@ -4,7 +4,7 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=cs,nodejs,java,dart"></img>
 <br/>
-<img src="https://skillicons.dev/icons?i=typescript,lua,python,dotnet"></img>
+<img src="https://skillicons.dev/icons?i=typescript,lua,python"></img>
 
 🔥 I am a discord bot and a roblox game developer! 🔥
   
@@ -19,7 +19,9 @@ and godot as my main game engine
 <br/>
   <h1>Misc</h1>
 <img src="https://skillicons.dev/icons?i=discord,heroku,blender,cloudflare"></img>
-<img src="https://skillicons.dev/icons?i=figma,gcp,maven,vscode,visualstudio"></img>
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,gcp,maven,vscode,visualstudio,dotnet"></img>
+
 <h2>Yuzof#2489</h2>
 <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
 <br/>
