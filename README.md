@@ -1,14 +1,14 @@
-
+<p align="center">
+  <img width="100" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/49005044?v=4">
+  <br>
+  <br>
+  <b>retronbv</b>
+  <br>
+  <span style="font-size:10px;!important">A little bit of knowledge comes a little bit of, hmm actually i forgot wat i said...</span>
+</p>
 
 
 <div align="center">
-  <b>Yuzoff</b>
-  <img width="100" src="https://avatars.githubusercontent.com/u/76404657?v=4"><a href="github.com/Yuzoff"></a></img>
-  <span style="font-size:10px;!important">A little bit of knowledge comes a little bit of, hmm actually i forgot wat i said...</span>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
   <h1>Languages</h1>
 <img src="https://skillicons.dev/icons?i=js,html,css,cpp"></img>
 <br/>
