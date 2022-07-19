@@ -10,11 +10,11 @@
 
 <div align="center">
   <h1>Languages</h1>
-<img src="https://skillicons.dev/icons?i=js,html,css,cpp"></img>
+<img src="https://skillicons.dev/icons?i=js,html,css,cs"></img>
 <br/>
-<img src="https://skillicons.dev/icons?i=cs,nodejs,java,dart"></img>
+<img src="https://skillicons.dev/icons?i=nodejs,java,dart,typescript"></img>
 <br/>
-<img src="https://skillicons.dev/icons?i=typescript,lua,python"></img>
+<img src="https://skillicons.dev/icons?i=lua,python"></img>
 
 🔥 I am a discord bot and a roblox game developer! 🔥
   
