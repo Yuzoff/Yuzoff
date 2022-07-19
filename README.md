@@ -11,6 +11,7 @@ and godot as my main game engine
 
 <h1>What I am currently working on</h1>
 ● 🤖 Currently working on a private discord bot
+<br/>
 ● 🎮 Learning <a href="https://www.monogame.net/">monogame</a>
 
 <img src="https://skillicons.dev/icons?i=vscode,godot"></img>
