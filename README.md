@@ -14,7 +14,7 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,java,dart,typescript"></img>
 <br/>
-<img src="https://skillicons.dev/icons?i=lua,python"></img>
+<img src="https://skillicons.dev/icons?i=lua,python,cpp"></img>
 
 🔥 I am a discord bot and a roblox game developer! 🔥
   
