@@ -36,6 +36,9 @@ and godot as my main game engine
 <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
 <br/>
 </div>
+
+![GitHub Views](https://komarev.com/ghpvc/?username=LocalizedDod)
+
 <br/>
 <br/>
 <b>README inspired by <a href="https://github.com/retronbv">retronbv</a>
