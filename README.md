@@ -37,7 +37,6 @@ and godot as my main game engine
 <br/>
 </div>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=LocalizedDod)
 
 <br/>
 <br/>
