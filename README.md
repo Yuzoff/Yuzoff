@@ -40,4 +40,3 @@ and godot as my main game engine
 
 <br/>
 <br/>
-<b>README inspired by <a href="https://github.com/retronbv">retronbv</a>
